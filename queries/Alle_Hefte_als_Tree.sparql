@@ -1,11 +1,12 @@
 #Uebersicht Dresdner Hefte in Wikidata, Anzeige als Tree
-# Try it: https://w.wiki/4xHb
+#item: Artikel im Dresdner Heft, heft: DDHeft
+# Try it: https://w.wiki/4yZP
 #defaultView:Tree
-SELECT ?heft ?shortname ?item ?itemLabel ?author ?authorLabel WHERE {
+SELECT ?heft ?shortname ?item ?itemLabel ?subject ?subjectLabel WHERE {
     ?item wdt:P1433 wd:Q14916674.
     ?item wdt:P1433 ?heft.
     ?heft wdt:P1813 ?shortname.
     ?heft wdt:P577 ?pubdate.
-     ?item wdt:P921 ?author.
+     ?item wdt:P921 ?subject.
      SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],de"}
 } ORDER BY ?pubdate
