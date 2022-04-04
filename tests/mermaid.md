@@ -1,5 +1,5 @@
 ```mermaid
-graph TD lr;
+graph TD;
     A-->B;
     A-->C;
     B-->D;
