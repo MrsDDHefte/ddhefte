@@ -8,5 +8,5 @@ graph TD;
 
 ```mermaid
 flowchart LR
-    Eingabe --> Verarbeitung --> Ausgabe & User-Input --> Ausgabe
+    Eingabe --> Verarbeitung & User-Input --> Ausgabe
 ```
