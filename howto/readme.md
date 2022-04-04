@@ -1,6 +1,6 @@
 # Mini-Howtos
 
-<img align="right" width="200"  src="(https://user-images.githubusercontent.com/39955099/161610747-93c5be84-4017-4efc-befe-404950a92050.png">
+<img align="right" width="200"  src="https://user-images.githubusercontent.com/39955099/161610747-93c5be84-4017-4efc-befe-404950a92050.png">
 
 * Volltext-Recherche innerhalb
   * der ersten 100 Hefte,
