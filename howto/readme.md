@@ -1,7 +1,7 @@
 # Mini-Howtos
-<p align="right" width="80%">
+
 ![WP20Symbols_CAMERA svg](https://user-images.githubusercontent.com/39955099/161610747-93c5be84-4017-4efc-befe-404950a92050.png)
- </p>
+
 * Volltext-Recherche innerhalb
   * der ersten 100 Hefte,
     - Kollektion 73 aufrufen: http://digital.slub-dresden.de/kollektionen/73/
