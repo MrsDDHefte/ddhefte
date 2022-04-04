@@ -5,3 +5,8 @@ graph TD;
     B-->D;
     C-->D;
 ```
+
+```mermaid
+flowchart LR
+    Eingabe --> Verarbeitung --> Ausgabe
+```
