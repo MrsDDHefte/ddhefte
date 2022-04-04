@@ -1,0 +1,12 @@
+SELECT ?item ?itemLabel ?aqid ?refUrl WHERE {
+  ?item wdt:P463 wd:Q111243259.
+  optional {
+    ?item wdt:P734 ?familyname.
+  }
+  ?item rdfs:label ?l filter (lang(?l) = "de").
+  ?item p:P463 ?mainSubjStmt. 
+  ?mainSubjStmt prov:wasDerivedFrom ?refNode. 
+  ?refNode pr:P854 ?refUrl.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "de". }
+  BIND(concat('{{aqid|',STR(?item),'|',STR(?l),'}}') as ?aqid)
+} ORDER BY  ?item ?familynameLabel ?aqid ?refUrl
