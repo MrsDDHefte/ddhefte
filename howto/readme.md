@@ -1,3 +1,4 @@
+![WP20Symbols_CAMERA svg](https://user-images.githubusercontent.com/39955099/161610747-93c5be84-4017-4efc-befe-404950a92050.png)
 
 # Mini-Howtos
 
