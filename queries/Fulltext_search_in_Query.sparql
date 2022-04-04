@@ -1,0 +1,9 @@
+SELECT ?item ?itemLabel (GROUP_CONCAT(DISTINCT ?ol; separator=', ') AS ?subjectlist)  
+WHERE 
+{
+  ?item wdt:P1433 wd:Q14916674.
+  ?item wdt:P921 ?subject.
+  ?subject  rdfs:label ?ol filter (lang(?ol) = "de").
+  MINUS{ ?subject wdt:P31 wd:Q16324495 }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "de". }
+} GROUP BY ?item ?itemLabel
