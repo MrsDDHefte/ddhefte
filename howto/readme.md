@@ -10,6 +10,6 @@
     - Sortierung nach Reihe, um Treffer in aufsteigender Heftzählung anzeigen zu lassen
   * ab dem 101. Heft
     - Query in Wikidata mit Textfeldern (Beschreibung etc.) - dann Volltextsuche in der Trefferliste
-* AQIDs in Wikisource einfügen
-* Scholia-Visualisierungen <img align="right" width="150"  src="/images/logo_scholia.png" />
+* [AQIDs in Wikisource](AQIDs_in_Wikisource.md) einfügen
+* [Scholia-Visualisierungen](Show_in_scholia.md) <img align="right" width="150"  src="/images/logo_scholia.png" />
 * [Name-Disambiguation](https://en.wikipedia.org/wiki/Author_name_disambiguation) von der [Mitgliederliste](Mitgliederliste.md)
