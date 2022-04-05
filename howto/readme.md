@@ -1,6 +1,6 @@
 # Mini-Howtos
 
-<img align="right" width="200"  src="https://user-images.githubusercontent.com/39955099/161610747-93c5be84-4017-4efc-befe-404950a92050.png" vspace="2" hspace="2" />
+<img align="right" width="200"  src="https://user-images.githubusercontent.com/39955099/161610747-93c5be84-4017-4efc-befe-404950a92050.png" vspace="2" hspace="2" /><br>
 <img align="right" width="150"  src="https://raw.githubusercontent.com/ddhefte/ddhefte/main/images/logo_scholia.png" vspace="2" hspace="2" />
 
 * Volltext-Recherche innerhalb
