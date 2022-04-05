@@ -11,4 +11,5 @@
     - Query in Wikidata mit Textfeldern (Beschreibung etc.) - dann Volltextsuche in der Trefferliste
 * AQIDs in Wikisource einfügen
 * Scholia-Visualisierungen
+<img align="right" width="180"  src="https://raw.githubusercontent.com/ddhefte/ddhefte/main/images/logo_scholia.png">
 * [Name-Disambiguation](https://en.wikipedia.org/wiki/Author_name_disambiguation) von der [Mitgliederliste](Mitgliederliste.md)
