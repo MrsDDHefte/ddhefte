@@ -11,5 +11,5 @@
   * ab dem 101. Heft
     - Query in Wikidata mit Textfeldern (Beschreibung etc.) - dann Volltextsuche in der Trefferliste
 * AQIDs in Wikisource einfügen
-* Scholia-Visualisierungen <img align="right" width="150"  src="images/logo_scholia.png" />
+* Scholia-Visualisierungen <img align="right" width="150"  src="/images/logo_scholia.png" />
 * [Name-Disambiguation](https://en.wikipedia.org/wiki/Author_name_disambiguation) von der [Mitgliederliste](Mitgliederliste.md)
