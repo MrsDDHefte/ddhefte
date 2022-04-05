@@ -1,3 +1,3 @@
-# Scholia
+## Scholia
 
-# Übersicht der Infotypen
+### Übersicht der Infotypen
