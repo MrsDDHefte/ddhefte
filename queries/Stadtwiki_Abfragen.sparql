@@ -1,0 +1,4 @@
+SELECT * WHERE {
+  { ?item wdt:P6228 ?rwat. }
+  { ?item wdt:P8713 ?stadtwikiDD. }
+}
