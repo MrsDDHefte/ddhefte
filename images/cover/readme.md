@@ -1,4 +1,5 @@
 ## Cover der Dresdner Hefte 1-50
+-> [Files](/images/cover)
 <table>
   <tr>
     <td><img src="Dresdner-Heft_001.jpg" height="100" /></td>
