@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: combining history and present with one SPARQL-Query ...
 
 # Inhalte
-* [Mini-Howto](howto/readme.md) | [Queries](queries/) | [Cover](cover/readme.md)
+* [Mini-Howto](howto/readme.md) | [Queries](queries/) | [Cover](images/cover/readme.md)
