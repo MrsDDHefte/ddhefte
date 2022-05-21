@@ -1,0 +1,13 @@
+TryIt: https://w.wiki/5BsX
+
+#Wikidata-Items als main subject vom Typ "history of"
+SELECT ?article ?articleLabel ?item ?itemLabel ?name 
+WHERE 
+{
+  ?article wdt:P1433 wd:Q14916674. #published in Dresdner Hefte
+  ?article wdt:P921 ?item. # zentrales Thema
+  ?item rdfs:label ?name filter (lang(?name) = "en"). # hole englisches Lemma/Label
+  FILTER( CONTAINS( ?name, 'history' )). # filtere nach Zeichenkette "history"
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "de". }
+}
+
