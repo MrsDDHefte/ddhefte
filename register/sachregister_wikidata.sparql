@@ -1,4 +1,4 @@
-SELECT ?item ?itemLabel ?issue ?pages ?thema
+SELECT ?item ?itemLabel ?issue ?pages ?thema ?zeitraum
 WHERE 
 {
   ?item wdt:P1433 wd:Q14916674.
@@ -8,6 +8,11 @@ WHERE
   {
     ?item wdt:P921 wd:Q12271. 
     BIND( "Architektur" AS ?thema )
+  }   UNION {
+    ?item wdt:P921 wd:Q1802210. 
+    ?item wdt:P921 wd:Q700923. #Vormärz
+    BIND( "Landesgeschichte" AS ?thema )
+    BIND( "1832 bis 1871" AS ?zeitraum )
   }   UNION {
     ?item wdt:P921 wd:Q63100. 
     BIND( "Städtebau" AS ?thema )
