@@ -1,0 +1,16 @@
+SELECT ?item ?itemLabel ?issue ?pages ?thema
+WHERE 
+{
+  ?item wdt:P1433 wd:Q14916674.
+  #?item wdt:P433 "70".
+  ?item wdt:P433 ?issue.
+  ?item wdt:P304 ?pages.
+  {
+    ?item wdt:P921 wd:Q12271. 
+    BIND( "Architektur" AS ?thema )
+  }   UNION {
+    ?item wdt:P921 wd:Q63100. 
+    BIND( "Städtebau" AS ?thema )
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+} ORDER BY ?thema ?issue ?pages
