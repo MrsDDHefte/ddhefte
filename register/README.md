@@ -17,3 +17,9 @@ auswertet. Dabei wird der o.g. ?DDH_EpocheCode (Buchstabe E) mit einem BIND/IF-K
 
 Oftmals ist als nächstes die Frage - kann man dies auch bei multivalue-Zeitepochen abbilden - ja, geht natürlich: einfach mehrere Werte als Referenz für die Zeitepoche hinterlegen:<br/>
 https://www.wikidata.org/w/index.php?title=Q111474460&type=revision&diff=1644818423&oldid=1610056328
+
+Ergebnis: Hier also dazu die [Query](/register/sachregister_wikidata_history_Mfchris84.sparql): ```sachregister_wikidata_history_Mfchris84.sparql```. [TryIt!](https://w.wiki/5CN3)
+
+* Wie könnte ein Sachregister 2.0 (mit "KI": heuristischem Verfahren) aussehen ?
+
+Automatisiert werden aus den Titeln und Abstracts der Dresdner-Hefte-Artikel die Main Subjects gebildet und mit einer (vorher redaktionell gepflegte Schlagwortliste per GND & co.) abgeglichen (um nicht in alle "Orchideendisziplinen" zu zerfasern). Je nach instance of/subclass of "versteht" die Abfrage die zeitliche Dimension (bei Personen/Biografien die Lebens-/Sterbedaten, bei Gebäuden die Errichtung und bei Org-Einheiten wie die Weimarer Republik ebenfalls die Start-/Endezeiten).
