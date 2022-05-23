@@ -15,4 +15,5 @@ Ein guter Ansatz kommt dabei von @LibrErli, der auf vorher hinterlegte Qualifier
 auswertet. Dabei wird der o.g. ?DDH_EpocheCode (Buchstabe E) mit einem BIND/IF-Konstrukt ähnlich einer Switch-Anweisung, wie in anderen Programmiersprachen
 üblich, ausgelesen.
 
-Oftmals ist als nächstes die Frage - kann man dies auch bei multivalue-Zeitepochen abbilden - ja, geht natürlich: einfach mehrere Werte als Referenz für die Zeitepoche hinterlegen: https://www.wikidata.org/w/index.php?title=Q111474460&type=revision&diff=1644818423&oldid=1610056328
+Oftmals ist als nächstes die Frage - kann man dies auch bei multivalue-Zeitepochen abbilden - ja, geht natürlich: einfach mehrere Werte als Referenz für die Zeitepoche hinterlegen:
+https://www.wikidata.org/w/index.php?title=Q111474460&type=revision&diff=1644818423&oldid=1610056328
