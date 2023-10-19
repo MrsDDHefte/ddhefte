@@ -17,9 +17,12 @@ LAST    Lde     "<xsl:value-of select='.'/>"</xsl:template>
 java -jar /usr/share/java/Saxon-HE.jar -s:heft1.xml -xsl:quickstatements.xsl
  
 output:
+<pre>
 CREATE
 LAST    Lde     "Neunzehntes Jahrhundert"
 CREATE
 LAST    Lde     "Grundzüge der sächsischen Geschichte im 19. Jahrhundert"
 CREATE
 LAST    Lde     "Die Architektur und die städtebauliche Entwicklung Dresdens im 19. Jahrhundert"
+...
+</pre>
