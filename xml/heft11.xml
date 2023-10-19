@@ -1,0 +1,273 @@
+
+<mets>
+<dmdSec ID="uuid-017a6d80-fde9-3445-a239-bc86ba0c9f14">
+      <mdWrap MDTYPE="MODS">
+         <xmlData>
+            <mods>
+               <titleInfo>
+                  <title>Zur Kunstentwicklung in Dresden im zweiten Drittel des 18. Jahrhunderts</title>
+                  <subTitle>Tradition und Wandel</subTitle>
+               </titleInfo>
+               <name type="corporate">
+                  <displayForm>SLUB Dresden</displayForm>
+                  <role>
+                     <roleTerm authority="marcrelator" type="code">len</roleTerm>
+                  </role>
+               </name>
+               <name type="corporate">
+                  <displayForm>SLUB Dresden</displayForm>
+                  <role>
+                     <roleTerm authority="marcrelator" type="code">own</roleTerm>
+                  </role>
+               </name>
+               <originInfo eventType="publication">
+                  <place>
+                     <placeTerm type="text">Dresden</placeTerm>
+                  </place>
+                  <publisher>Rat des Bezirkes Dresden, Abt. Kultur</publisher>
+                  <dateIssued encoding="iso8601" keyDate="yes">1987</dateIssued>
+                  <displayDate>1987</displayDate>
+               </originInfo>
+               <language>
+                  <languageTerm type="code" authority="rfc3066">ger</languageTerm>
+                  <scriptTerm type="code" authority="iso15924">Latn</scriptTerm>
+               </language>
+               <physicalDescription>
+                  <extent>88 S.</extent>
+                  <digitalOrigin>reformatted digital</digitalOrigin>
+               </physicalDescription>
+               <relatedItem type="series">
+                  <titleInfo>
+                     <title lang="ger">Saxonica</title>
+                  </titleInfo>
+               </relatedItem>
+               <relatedItem type="series">
+                  <titleInfo>
+                     <title lang="ger">Projekt: Dresdner Hefte</title>
+                  </titleInfo>
+               </relatedItem>
+               <relatedItem type="series">
+                  <titleInfo>
+                     <title>Dresdner Hefte ; 1987,1</title>
+                  </titleInfo>
+               </relatedItem>
+               <relatedItem type="series">
+                  <titleInfo>
+                     <title>Beiträge zur Kulturgeschichte ; 11</title>
+                  </titleInfo>
+               </relatedItem>
+               <identifier type="purl">http://digital.slub-dresden.de/id358667844</identifier>
+               <identifier type="urn">urn:nbn:de:bsz:14-db-id3586678440</identifier>
+               <identifier type="swb-ppn-digital">358667844</identifier>
+               <identifier type="swb-ppn-source">081747853</identifier>
+               <identifier type="kitodo">44400</identifier>
+               <location>
+                  <physicalLocation valueURI="https://ld.zdb-services.de/resource/organisations/DE-14">Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden</physicalLocation>
+                  <shelfLocator>Y. 8. 4533</shelfLocator>
+               </location>
+               <recordInfo>
+                  <recordIdentifier source="http://digital.slub-dresden.de/oai/">oai:de:slub-dresden:db:id-358667844</recordIdentifier>
+               </recordInfo>
+            </mods>
+         </xmlData>
+      </mdWrap>
+   </dmdSec>
+   <dmdSec ID="uuid-75a7f51c-0493-3860-8bed-12adf2882b2e">
+      <mdWrap MDTYPE="MODS">
+         <xmlData>
+            <mods>
+               <titleInfo>
+                  <title>Johann Christoph Knöffel und die Kunst seiner Zeit - Zur Kunstentwicklung in Dresden im zweiten Drittel des 18. Jahrhunderts.</title>
+               </titleInfo>
+               <name type="personal">
+                  <namePart type="family">Bächler</namePart>
+                  <namePart type="given">Hagen</namePart>
+                  <displayForm>Bächler, Hagen</displayForm>
+                  <role>
+                     <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                  </role>
+               </name>
+            </mods>
+         </xmlData>
+      </mdWrap>
+   </dmdSec>
+   <dmdSec ID="uuid-76157dfe-172d-3087-9203-6ae6809c2cb5">
+      <mdWrap MDTYPE="MODS">
+         <xmlData>
+            <mods>
+               <titleInfo>
+                  <title>Kunst- und architekturtheoretische Anschauungen im zweiten Drittel des 18. Jahrhunderts. Zum kunst- und architekturtheoretischen Umfeld Johann Christoph Knöffels und Friedrich August Krubsacius'</title>
+               </titleInfo>
+               <name type="personal">
+                  <namePart type="family">Schlechte</namePart>
+                  <namePart type="given">Monika</namePart>
+                  <displayForm>Schlechte, Monika</displayForm>
+                  <role>
+                     <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                  </role>
+               </name>
+            </mods>
+         </xmlData>
+      </mdWrap>
+   </dmdSec>
+   <dmdSec ID="uuid-9d866665-94c2-3bc6-9298-ee9b44b8947c">
+      <mdWrap MDTYPE="MODS">
+         <xmlData>
+            <mods>
+               <titleInfo>
+                  <title>Die Architektur Johann Christoph Knöffels</title>
+               </titleInfo>
+               <name type="personal">
+                  <namePart type="family">May</namePart>
+                  <namePart type="given">Walter</namePart>
+                  <displayForm>May, Walter</displayForm>
+                  <role>
+                     <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                  </role>
+               </name>
+            </mods>
+         </xmlData>
+      </mdWrap>
+   </dmdSec>
+   <dmdSec ID="uuid-5550ea93-b326-37ec-ab29-afd2c43a7ecf">
+      <mdWrap MDTYPE="MODS">
+         <xmlData>
+            <mods>
+               <titleInfo>
+                  <title>Zur Gartenarchitektur und -plastik Dresdner Architekten und Bildhauer</title>
+               </titleInfo>
+               <name type="personal">
+                  <namePart type="family">Kuhn</namePart>
+                  <namePart type="given">Thomas</namePart>
+                  <displayForm>Kuhn, Thomas</displayForm>
+                  <role>
+                     <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                  </role>
+               </name>
+               <name type="personal">
+                  <namePart type="family">Krügel</namePart>
+                  <namePart type="given">Katharina</namePart>
+                  <displayForm>Krügel, Katharina</displayForm>
+                  <role>
+                     <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                  </role>
+               </name>
+            </mods>
+         </xmlData>
+      </mdWrap>
+   </dmdSec>
+   <dmdSec ID="uuid-08f3c7fb-7fd6-33f9-a282-531781923e9d">
+      <mdWrap MDTYPE="MODS">
+         <xmlData>
+            <mods>
+               <titleInfo>
+                  <title>Carl Heinrich von Heineken - Ein Kunstgelehrter im Dienste des Grafen Brühl</title>
+               </titleInfo>
+               <name type="personal">
+                  <namePart type="family">Beck</namePart>
+                  <namePart type="given">Günter</namePart>
+                  <displayForm>Beck, Günter</displayForm>
+                  <role>
+                     <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                  </role>
+               </name>
+            </mods>
+         </xmlData>
+      </mdWrap>
+   </dmdSec>
+   <dmdSec ID="uuid-c0f27d42-d114-3d6c-895a-8bfb6b5f6154">
+      <mdWrap MDTYPE="MODS">
+         <xmlData>
+            <mods>
+               <titleInfo>
+                  <title>Die Dresdner Sammlungen zwischen 1733 und 1763</title>
+               </titleInfo>
+               <name type="personal">
+                  <namePart type="family">Heres</namePart>
+                  <namePart type="given">Gerald</namePart>
+                  <displayForm>Heres, Gerald</displayForm>
+                  <role>
+                     <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                  </role>
+               </name>
+            </mods>
+         </xmlData>
+      </mdWrap>
+   </dmdSec>
+   <dmdSec ID="uuid-04c693c1-bb12-3fab-872e-1842420d7777">
+      <mdWrap MDTYPE="MODS">
+         <xmlData>
+            <mods>
+               <titleInfo>
+                  <title>Literatur der Aufklärung in Dresden um 1750</title>
+               </titleInfo>
+               <name type="personal">
+                  <namePart type="family">Jäckel</namePart>
+                  <namePart type="given">Günter</namePart>
+                  <displayForm>Jäckel, Günter</displayForm>
+                  <role>
+                     <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                  </role>
+               </name>
+            </mods>
+         </xmlData>
+      </mdWrap>
+   </dmdSec>
+   <dmdSec ID="uuid-524960b3-12e0-3464-86a4-8f05c3418937">
+      <mdWrap MDTYPE="MODS">
+         <xmlData>
+            <mods>
+               <titleInfo>
+                  <title>Die Sinfonie, respektive Ouvertüre, in Dresden zwischen 1700 und 1750 unter besonderer Berücksichtigung von Jan Dismas Zelenka</title>
+               </titleInfo>
+               <name type="personal">
+                  <namePart type="family">Ottenberg</namePart>
+                  <namePart type="given">Hans-Günter</namePart>
+                  <displayForm>Ottenberg, Hans-Günter</displayForm>
+                  <role>
+                     <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                  </role>
+               </name>
+            </mods>
+         </xmlData>
+      </mdWrap>
+   </dmdSec>
+   <dmdSec ID="uuid-2830c02c-9b3d-341e-b9d0-31d43d8af684">
+      <mdWrap MDTYPE="MODS">
+         <xmlData>
+            <mods>
+               <titleInfo>
+                  <title>Das Verhältnis zwischen sächsicher Landesregierung und Herrnhuter Brüdergemeine von 1727 bis 1749</title>
+               </titleInfo>
+               <name type="personal">
+                  <namePart type="family">Modrow</namePart>
+                  <namePart type="given">Irina</namePart>
+                  <displayForm>Modrow, Irina</displayForm>
+                  <role>
+                     <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                  </role>
+               </name>
+            </mods>
+         </xmlData>
+      </mdWrap>
+   </dmdSec>
+   <dmdSec ID="uuid-b6cf1e58-29a9-3a16-9a91-f0998a104007">
+      <mdWrap MDTYPE="MODS">
+         <xmlData>
+            <mods>
+               <titleInfo>
+                  <title>Die "Liberey" des Kurfürsten als Keimzelle der sächsischen Landesbibliothek</title>
+               </titleInfo>
+               <name type="personal">
+                  <namePart type="family">Nitzschke</namePart>
+                  <namePart type="given">Katrin</namePart>
+                  <displayForm>Nitzschke, Katrin</displayForm>
+                  <role>
+                     <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                  </role>
+               </name>
+            </mods>
+         </xmlData>
+      </mdWrap>
+   </dmdSec>
+</mets>
