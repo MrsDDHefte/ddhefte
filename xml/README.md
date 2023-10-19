@@ -1,5 +1,5 @@
 download von zwei Quellen:
-wget http://www.johannstadtarchiv.de/heft1.xml
+wget http://www.johannstadtarchiv.de/heft11.xml
 wget http://www.johannstadtarchiv.de/Saxon-HE.jar
  
 nano quickstatements.xsl:
