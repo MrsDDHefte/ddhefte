@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on SPARQL-Queries displaying results with #wikiDData
 - 🌱 I’m currently learning Markdown Language for github projects
-- 👯 I’m looking to collaborate on Wikisource and other wiki~versum projects
+- 👯 I’m looking to collaborate on [Wikisource](https://de.wikisource.org/wiki/Dresdner_Hefte) and other wiki~versum projects
 - 🤔 I’m looking for help with XML and XSL(T)
 - 💬 Ask me about history of DDHefte
 - 📫 How to reach me: https://twitter.com/ddhefte
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: combining history and present with one SPARQL-Query ...
 
 # Inhalte
-* [Mini-Howto](howto/readme.md) | [Queries](queries/)
+* [Mini-Howto](howto/readme.md) | [Queries](queries/) | [register](register/) | [Cover](images/cover/readme.md)
